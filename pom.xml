@@ -53,7 +53,6 @@
     <maven-javadoc-plugin.version>3.6.3</maven-javadoc-plugin.version>
   </properties>
 
-  
   <dependencies>
 
     <dependency>
