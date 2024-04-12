@@ -42,7 +42,7 @@
       <url>https://maven.pkg.github.com/CS1632-Spring2024/supplementary-exercise-4-ci-cd-pipelines-1GithubRon1</url>
     </repository>
   </distributionManagement>
-  
+
   <properties>
     <sonar.organization>cs1632-spring2024</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
@@ -52,7 +52,6 @@
     <jacoco-maven-plugin.version>0.8.11</jacoco-maven-plugin.version>
     <maven-javadoc-plugin.version>3.6.3</maven-javadoc-plugin.version>
   </properties>
-
 
   
   <dependencies>
