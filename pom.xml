@@ -44,6 +44,8 @@
   </distributionManagement>
   
   <properties>
+    <sonar.organization>cs1632-spring2024</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -51,6 +53,8 @@
     <maven-javadoc-plugin.version>3.6.3</maven-javadoc-plugin.version>
   </properties>
 
+
+  
   <dependencies>
 
     <dependency>
